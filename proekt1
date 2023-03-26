@@ -1,0 +1,38 @@
+<html>
+    <body style="font-family:sans-serif">
+        <title>Футбол</title>
+        <header style="background:lightblue">
+        <h1 style="text-align:center;font-size:50px"> <img src="https://onlyballs.com.ua/image/cache/catalog/Rozetka/ukr-800x800.jpg" height="50px" width="50px"/>Футбол <img src="https://shopua.in/content/images/38/930x930l80nn0/13213583312589.jpeg" height="50px" width="50px"/></h1>
+        </header>
+        <main>
+            <h2 style="font-size:40px">Основна інформація про футбол</h2>
+            <p style="font-size:20px"><b>Футбол <i>(від англ. football)</i></b> — командний вид спорту, в який грають дві команди по одинадцять гравців зі сферичним м'ячем . Близько 250 мільйонів чоловіків і жінок із більш ніж 200 країн грають у футбол, що робить його найпопулярнішим у світі видом спорту.</p>
+            <h2 style="font-size:40px">Трофеї</h2>
+            <p style="font-size:20px">У футболі багато різних винагород, які даються за різні успіхи. Найціннішим індивідуальним трофеєм є золотий м'яч. Ним нагороджується футболіст, який набрав найбільше голосів тренерів та капітанів національних збірних, а також журналістів зі всього світу.</p>
+            <table style="border:2px black solid; background-color:yellow; font-size:20px">
+                <tr style="border:2px black solid">
+                    <td style="border:2px black solid"><b>Гравець</b></td>
+                    <td style="border:2px black solid"><b>Кількість нагород</b></td>
+                </tr>
+                <tr style="border:2px black solid">
+                    <td style="border:2px black solid">Ліонель Мессі</td>
+                    <td style="border:2px black solid">7 <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/FigoBallond%27Or2000.jpg" height="50px" width="40px"/></td>
+                </tr>
+                <tr style="border:2px black solid">
+                    <td style="border:2px black solid">Кріштіано Роналдо</td>
+                    <td style="border:2px black solid">5 <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/FigoBallond%27Or2000.jpg" height="50px" width="40px"/></td>
+                </tr>
+                <tr style="border:2px black solid">
+                    <td style="border:2px black solid">Шевченко Андрій</td>
+                    <td style="border:2px black solid">1 <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/FigoBallond%27Or2000.jpg" height="50px" width="40px"/></td>
+                </tr>
+            </table>  
+        </main>
+        <footer style="background:lightblue">
+            <p>Електронна пошта:football@gmail.com</p>
+            <p>Номер телефону:0965554444</p>
+            <a href="https://football24.ua/calendar/">Розклад матчів</a>
+            <a href="https://uk.wikipedia.org/wiki/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB">Детальніше про спорт</a>
+        </footer>
+    </body>
+</html>
